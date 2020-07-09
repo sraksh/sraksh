@@ -9,6 +9,7 @@ You can follow me on Twitter, [@Sumit](https://twitter.com/sumit__skr).
 This is what I'm currently using
 - React
 - Redux
+- Vuejs
 - Javascript
 - Jquery
 - HTML5
