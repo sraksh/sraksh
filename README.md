@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my Github profile! 🦖
 
-<!--
-**sraksh/sraksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sumit, I'm a Frontend Developer
 
-Here are some ideas to get you started:
+You should follow my on Twitter where I am active to the public, [@Sumit](https://twitter.com/sumit__skr).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Stack 💻
+This is what I'm currently using
+- React
+- Redux
+- Javascript
+- Jquery
+- HTML5
+- CSS3
